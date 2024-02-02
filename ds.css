@@ -18,18 +18,19 @@ body {
     background-color: #a39898;
 }
 #schedule-form {
-    background-color: #ada082;
+    background-color: #352046;
     padding: 50px;
     border-radius: 50px;
-    box-shadow: 20 20 40px rgba(0.1, 0.2, 0.2, 0.1);
+    box-shadow: 20 20 40px rgb(248, 247, 247);
     margin-bottom: 20px;
     text-align: center;
-}
+    color: #fff;
+}   
 
 label {
     display: block;
     margin-bottom: 8px;
-    color: #333;
+    color: #fdfdfd;
 }
 
 input {
@@ -55,7 +56,7 @@ button:hover {
 }
 
 .task {
-    background-color: #a39898;
+    background-color: #87caa1;
     padding: 10px;
     margin-bottom: 10px;
     border-radius: 4px;
